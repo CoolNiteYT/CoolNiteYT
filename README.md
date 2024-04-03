@@ -18,6 +18,6 @@ I'm CoolNite!
 
 ## My Stats
 
-![Github stats](https://github-readme-stats-psi-seven-58.vercel.app/api?username=CoolNiteYT&theme=highcontrast&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats-psi-seven-58.vercel.app/api?username=CoolNiteYT&theme=highcontrast&show_icons=true&count_private=true&include_all_commits=true)
 
 ![Top Languages Card](https://github-readme-stats-psi-seven-58.vercel.app/api/top-langs/?username=CoolNiteYT&layout=donut-vertical&theme=blue-green&exclude_repo=github-readme-stats)
