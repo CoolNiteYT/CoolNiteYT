@@ -20,4 +20,4 @@ I'm CoolNite!
 
 ![Github stats](https://github-readme-stats-psi-seven-58.vercel.app/api?username=CoolNiteYT&theme=highcontrast&show_icons=true&count_private=true)
 
-![Top Languages Card](https://github-readme-stats-psi-seven-58.vercel.app/api/top-langs/?username=CoolNiteYT&layout=donut-vertical&theme=blue-green&show_icons=true)
+![Top Languages Card](https://github-readme-stats-psi-seven-58.vercel.app/api/top-langs/?username=CoolNiteYT&layout=donut-vertical&theme=blue-green&exclude_repo=github-readme-stats)
