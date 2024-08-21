@@ -10,16 +10,32 @@ I'm RealityDev (aka CoolNite), a passionate young developer with experience in C
 
 ## My Skills
 
-- **Languages**:
+### Languages
+
+**Expert**:
 - ![C++](https://img.shields.io/badge/C++-Expert-blue) 
 - ![Python](https://img.shields.io/badge/Python-Expert-yellow)
+
+**Intermediate**:
 - ![C#](https://img.shields.io/badge/C%23-Intermediate-green)
 - ![Java](https://img.shields.io/badge/Java-Intermediate-red)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-orange)
 
-**Tools**:
-- ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-IDE-blueviolet)
-- Visual Studio Code
+### Tools
+
+**IDEs**:
+- ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-IDE-blueviolet) ![Expert](https://img.shields.io/badge/Expert-4CAF50?logo=none&logoColor=white)
+- ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?logo=visual%20studio%20code&logoColor=white) ![Intermediate](https://img.shields.io/badge/Intermediate-FBC02C?logo=none&logoColor=white)
+
+**Version Control**:
+- ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![Intermediate](https://img.shields.io/badge/Intermediate-FBC02C?logo=none&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![Intermediate](https://img.shields.io/badge/Intermediate-FBC02C?logo=none&logoColor=white)
+
+**Game development**:
+- ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?logo=unreal%20engine&logoColor=white) ![Intermediate](https://img.shields.io/badge/Intermediate-FBC02C?logo=none&logoColor=white)
+
+**Project management**:
+- ![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white) ![Intermediate](https://img.shields.io/badge/Intermediate-FBC02C?logo=none&logoColor=white)
 
 ## My Stats
 
