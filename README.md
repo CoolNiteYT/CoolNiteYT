@@ -39,9 +39,9 @@ I'm RealityDev (aka CoolNite), a passionate young developer with experience in C
 
 ## My Stats
 
-![Github stats](https://github-readme-stats-psi-seven-58.vercel.app/api?username=CoolNiteYT&theme=highcontrast&show_icons=true&count_private=true&include_all_commits=true)
+![Github stats](https://github-readme-stats-psi-seven-58.vercel.app/api?username=cool-nite&theme=highcontrast&show_icons=true&count_private=true&include_all_commits=true)
 
-![Top Languages Card](https://github-readme-stats-psi-seven-58.vercel.app/api/top-langs/?username=CoolNiteYT&layout=donut-vertical&theme=blue-green&exclude_repo=github-readme-stats)
+![Top Languages Card](https://github-readme-stats-psi-seven-58.vercel.app/api/top-langs/?username=cool-nite&layout=donut-vertical&theme=blue-green&exclude_repo=github-readme-stats)
 
 ## What I'm working on
 
